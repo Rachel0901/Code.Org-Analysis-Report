@@ -1,0 +1,27 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Descriptive Analysis
+    chapters:
+    - file: final_teacheranalysis
+      sections:
+      - file: final_teacheranalysis1
+    - file: final_studentanalysis
+      sections:
+      - file: final_studentanalysis_activity1
+      - file: final_studentanalysis_activity2
+      - file: final_studentanalysis_assessment1
+  - caption: Advanced Exploratory Analysis
+    chapters:
+    - file: final_advancedanalysis
+      sections:
+      - file: final_advancedanalysis_activity1
+      - file: final_andancedanalysis_assesspredict   
+
+      
+ 
+
+
