@@ -4,6 +4,9 @@
 format: jb-book
 root: intro
 parts:
+  - caption: Dataset Overview
+    chapters:
+      - file: datasetintro
   - caption: Descriptive Analysis
     chapters:
     - file: final_teacheranalysis
@@ -19,7 +22,8 @@ parts:
     - file: final_advancedanalysis
       sections:
       - file: final_advancedanalysis_activity1
-      - file: final_andancedanalysis_assesspredict   
+      - file: final_advancedanalysis_studentprofile
+      - file: final_advancedanalysis_assesspredict   
 
       
  
