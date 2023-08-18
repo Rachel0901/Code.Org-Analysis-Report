@@ -23,9 +23,9 @@ parts:
       sections:
       - file: final_advancedanalysis_activity1
       - file: final_advancedanalysis_studentprofile
-      - file: final_advancedanalysis_assesspredict   
-
-      
- 
+      - file: final_advancedanalysis_assesspredict
+  - caption: Conclusion
+    chapters:
+      - file: final_conclusion
 
 
